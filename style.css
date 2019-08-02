@@ -208,11 +208,6 @@ font-style: normal;
   margin-right: auto;
   background-color: white;
   max-width:1400px;
-
-
-/*  margin-left: 150px;
-  margin-right: 150px;*/
-
 }
 #navBar ul{
   margin: auto;
@@ -245,7 +240,6 @@ font-style: normal;
 }
 #navBar li a:hover:before{
   right: 0;
-
 }
 
 #mainBox
@@ -271,22 +265,4 @@ font-style: normal;
 {
   padding-left: 100px;
 
-}
-
-.leftIMG
-{
-  width: 49%;
-  margin: 0 0 0 0;
-  float: right;
-  border:solid;
-  border-color: #fff
-
-}
-.rightIMG
-{
-  width: 49%;
-  margin:0 0 0 0;
-  float: left;
-  border:solid;
-  border-color: #fff
 }
